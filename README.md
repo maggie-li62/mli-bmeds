@@ -1,4 +1,4 @@
-# mli-bmeds
+# Maggie Li - Project 1
 # Introduction to data science syllabus
 
 * Instructors: Brian Caffo, Rai Winslow
